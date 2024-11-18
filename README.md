@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hello World 👋
 
-👋 Hello World! soy un desarrollador de software web ( +6 años experiencia ) con un fuerte enfoque en el frontend, pero también tengo experiencia en desarrollo backend , principalmente Java , Java Spring y además diseño (UI/UX) asi logrando poder relacionar en la mayoria de etapas de un producto digital.
+Soy un desarrollador de software web ( +6 años experiencia ) con un fuerte enfoque en el frontend, pero también tengo experiencia en desarrollo backend , principalmente Java , Java Spring y además diseño (UI/UX) asi logrando poder relacionar en la mayoria de etapas de un producto digital.
 
 He estado en varios frentes, apoyando y liderando proyectos de mediana complejidad, utilizando tecnologías React , asegurando escalabilidad y facilidad de mantenimiento.
 
